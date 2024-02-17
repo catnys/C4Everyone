@@ -1,0 +1,5 @@
+﻿  Mystring.cpp
+M:\Github\Cpp-Playlist-Resources\Operator Overloading\Mystring-operator-method\Mystring-operator-method\Mystring.cpp(103,53): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  Mystring-operator-method.vcxproj -> M:\Github\Cpp-Playlist-Resources\Operator Overloading\Mystring-operator-method\x64\Debug\Mystring-operator-method.exe

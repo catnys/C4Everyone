@@ -1,0 +1,4 @@
+﻿  Main.cpp
+M:\Github\Cpp-Playlist-Resources\The-Standard-Template-Library-STL\Array\Array\Main.cpp(118,15): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+M:\Github\Cpp-Playlist-Resources\The-Standard-Template-Library-STL\Array\Array\Main.cpp(127,15): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  Array.vcxproj -> M:\Github\Cpp-Playlist-Resources\The-Standard-Template-Library-STL\Array\x64\Debug\Array.exe

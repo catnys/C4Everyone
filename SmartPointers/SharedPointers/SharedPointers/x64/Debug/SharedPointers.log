@@ -1,0 +1,9 @@
+﻿  Account.cpp
+  Account_Util.cpp
+  Checking_Account.cpp
+  I_Printable.cpp
+  main.cpp
+  Savings_Account.cpp
+  Trust_Account.cpp
+  Generating Code...
+  SharedPointers.vcxproj -> M:\Github\Cpp-Playlist-Resources\SmartPointers\SharedPointers\x64\Debug\SharedPointers.exe

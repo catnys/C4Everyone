@@ -1,0 +1,3 @@
+﻿  Mystring.cpp
+M:\Projects\C++Programming\Section 14\Mystring-copy-assignment\Mystring-copy-assignment\Mystring.cpp(67,53): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Mystring-copy-assignment.vcxproj -> M:\Projects\C++Programming\Section 14\Mystring-copy-assignment\x64\Debug\Mystring-copy-assignment.exe

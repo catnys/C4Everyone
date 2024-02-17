@@ -1,0 +1,6 @@
+﻿  Main.cpp
+M:\Github\Cpp-Playlist-Resources\The-Standard-Template-Library-STL\AlgorithmIterators\AlgorithmIterators\Main.cpp(69,13): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+M:\Github\Cpp-Playlist-Resources\The-Standard-Template-Library-STL\AlgorithmIterators\AlgorithmIterators\Main.cpp(81,13): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+M:\Github\Cpp-Playlist-Resources\The-Standard-Template-Library-STL\AlgorithmIterators\AlgorithmIterators\Main.cpp(84,24): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+M:\Github\Cpp-Playlist-Resources\The-Standard-Template-Library-STL\AlgorithmIterators\AlgorithmIterators\Main.cpp(88,24): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  AlgorithmIterators.vcxproj -> M:\Github\Cpp-Playlist-Resources\The-Standard-Template-Library-STL\AlgorithmIterators\x64\Debug\AlgorithmIterators.exe

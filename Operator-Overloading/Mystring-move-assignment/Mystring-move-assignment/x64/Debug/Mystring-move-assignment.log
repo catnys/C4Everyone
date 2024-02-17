@@ -1,0 +1,5 @@
+﻿  main.cpp
+  Mystring.cpp
+M:\Github\Cpp-Playlist-Resources\Operator Overloading\Mystring-move-assignment\Mystring-move-assignment\Mystring.cpp(67,53): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Mystring-move-assignment.vcxproj -> M:\Github\Cpp-Playlist-Resources\Operator Overloading\Mystring-move-assignment\x64\Debug\Mystring-move-assignment.exe
