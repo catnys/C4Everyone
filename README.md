@@ -124,12 +124,6 @@
 
 ---
 
-Hello! That sounds like a fantastic project. Creating an educational repository about Data Structures in C++ can be a valuable resource for the developer community. Let's craft a detailed introduction with a touch of enthusiasm using emojis to make it engaging!
-
-Are you ready to embark on a journey into the fascinating world of data structures and C++? 🌟 Data structures are the fundamental building blocks of software engineering, enabling us to organize and manipulate data efficiently. Whether you're a beginner looking to grasp the basics or an experienced programmer seeking to deepen your understanding, you've come to the right place!
-
----
-
 ## Getting Started 🎄
 
 If you're new to C++ or looking to refresh your knowledge, you can start with the introductory writeups and simple code examples in this repository. Each topic is organized into a separate folder with relevant writeups and code files.
