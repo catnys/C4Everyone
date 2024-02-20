@@ -132,3 +132,16 @@ In the example of last but not least `^-^` :
 globalVariable resides in the data section, which is separate from the code, stack, and heap.
 localVar is a stack variable allocated within the main function's stack frame.
 dynamicVar is a heap variable created using new, and it is later deallocated with delete.
+
+
+---
+
+## Real Life Problem 
+
+Have you ever used a program or application that crashed due to a memory-related issue, such as a segmentation fault or heap corruption? If so, can you think of a reason why that might have happened?
+
+
+In a program, the **`stack`** has a limited size, and if too much memory is used for function call frames and local variables, it can cause a **`stack overflow`**. This can happen, for example, if a function calls itself recursively too many times or if there are too many nested function calls.
+
+On the other hand, a **`heap-related`** issue such as a **`memory leak`** or **`heap corruption`** can also cause a program to crash. A memory leak occurs when memory is allocated on the heap but not properly deallocated, leading to a gradual increase in memory usage over time. Heap corruption can occur if memory is accessed outside of its allocated bounds or if memory is freed twice. Both of these issues can cause a program to behave unpredictably or crash.
+
