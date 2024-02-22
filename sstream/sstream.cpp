@@ -11,7 +11,7 @@ struct Person {
 
 int main() {
     // Open the file
-    std::ifstream inputFile("input.txt");
+    std::ifstream inputFile("data.txt");
 
     // Check if the file is open
     if (!inputFile.is_open()) {
