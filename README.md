@@ -3,8 +3,8 @@
 [![GitHub issues](https://img.shields.io/github/issues/aintburak/C4Everyone?style=for-the-badge&labelColor=blue)](https://github.com/aintburak/C4Everyone/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/aintburak/C4Everyone?style=for-the-badge&labelColor=green)](https://github.com/aintburak/C4Everyone/pulls)  [![GitHub stars](https://img.shields.io/github/stars/aintburak/C4Everyone?style=for-the-badge&labelColor=yellow)](https://github.com/aintburak/C4Everyone/stargazers)  [![GitHub forks](https://img.shields.io/github/forks/aintburak/C4Everyone?style=for-the-badge&labelColor=orange)](https://github.com/aintburak/C4Everyone/forks)  [![GitHub watchers](https://img.shields.io/github/watchers/aintburak/C4Everyone?style=for-the-badge&labelColor=purple)](https://github.com/aintburak/C4Everyone/watchers)  ![GitHub](https://img.shields.io/github/license/aintburak/C4Everyone?style=for-the-badge)
 
 ###### tags: `C` `C++` `C4Everyone`  
-
-![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<!-- 
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) -->
 
 ---
 
