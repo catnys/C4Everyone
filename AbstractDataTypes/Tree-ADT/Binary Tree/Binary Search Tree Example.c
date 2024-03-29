@@ -143,5 +143,3 @@ void DisplayTree(Tree t)
 		DisplayTree(t->right);
    }
 }
-
-/* �2021 verdosa. all rights reserved. */
