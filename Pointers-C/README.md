@@ -70,17 +70,17 @@ The `swap` function in this example exchanges the pointers `a` and `b`, changing
     int *ptr = &num;
 
     // Print the memory address of 'ptr' using %p
-    printf("num : %d \n&num: %d\nptr: %d\n&ptr: %d\n*ptr: %d\nMemory address of 'ptr': %p\n", num, &num, ptr, &ptr, *ptr, (void *)ptr);
+    printf("num : %d \n&num: %d\nptr: %%d  -> %d \t %%p --> %p\n&ptr: %d\n*ptr: %d\nMemory address of 'ptr': %p\n", num, &num, ptr, ptr, &ptr, *ptr, (void *)ptr);
 
 ```
 
 Output:
 ```
 num : 10 
-&num: 1809690788
-ptr: 1809690788
-&ptr: 1809690776
+&num: 1795829924
+ptr: %d  -> 1795829924   %p --> 0x16b0a30a4
+&ptr: 1795829912
 *ptr: 10
-Memory address of 'ptr': 0x16bddb0a4
+Memory address of 'ptr': 0x16b0a30a4
 ```
 
