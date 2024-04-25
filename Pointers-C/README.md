@@ -60,3 +60,27 @@ int main() {
 - `a` and `b` - The addresses where the integers are stored.
 
 The `swap` function in this example exchanges the pointers `a` and `b`, changing which integers the pointers reference. The actual addresses where `a` and `b` themselves are stored do not change.
+
+
+
+## Another Example
+
+```c
+ int num = 10;
+    int *ptr = &num;
+
+    // Print the memory address of 'ptr' using %p
+    printf("num : %d \n&num: %d\nptr: %d\n&ptr: %d\n*ptr: %d\nMemory address of 'ptr': %p\n", num, &num, ptr, &ptr, *ptr, (void *)ptr);
+
+```
+
+Output:
+```
+num : 10 
+&num: 1809690788
+ptr: 1809690788
+&ptr: 1809690776
+*ptr: 10
+Memory address of 'ptr': 0x16bddb0a4
+```
+
