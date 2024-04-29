@@ -159,3 +159,127 @@
 - [ ] Type-cast operator functions
 - [ ] User-defined literals
 
+## 🌐 Dynamic Objects
+- [ ] New and delete expressions
+- [ ] New[] and delete[] expressions
+- [ ] Operator new functions
+- [ ] Operator delete functions
+- [ ] Overloading operator new and operator delete functions
+- [ ] Std::bad_alloc
+- [ ] Std::set_new_handler and std::get_new_handler functions
+- [ ] Placement new operators
+- [ ] Nothrow new
+
+## 📑 Type Alias Declarations
+- [ ] Typedef declarations
+- [ ] Using declarations
+
+## 🌌 Namespaces
+- [ ] Creation of namespaces
+- [ ] Namespaces and name lookup
+- [ ] Scope resolution operator and namespaces
+- [ ] Using declaration
+- [ ] Using namespace directive
+- [ ] Argument-dependent lookup
+- [ ] Unnamed namespace
+- [ ] Nested namespaces
+- [ ] Inline namespaces
+- [ ] Namespace alias
+- [ ] Function overloading and namespaces
+
+## 🧬 Classes and Inheritance
+- [ ] Object-oriented programming and inheritance
+- [ ] Public inheritance
+- [ ] Runtime polymorphism
+  - [ ] Static and dynamic type
+  - [ ] Virtual functions
+  - [ ] Pure virtual functions
+  - [ ] Virtual destructor
+  - [ ] Virtual constructor idiom
+  - [ ] Override contextual keyword
+  - [ ] Implementation of virtual dispatch mechanism
+  - [ ] Object slicing
+  - [ ] Non-virtual interface idiom
+- [ ] Final contextual keyword
+  - [ ] Final classes
+  - [ ] Final override
+- [ ] Multiple inheritance
+  - [ ] Scope and name lookup in multiple inheritance
+  - [ ] Special functions of a class in multiple inheritance
+  - [ ] Diamond formation
+  - [ ] Virtual inheritance
+  - [ ] Multiple inheritance and inherited constructors
+  - [ ] Copying and moving operations in multiple inheritance
+- [ ] Private inheritance
+  - [ ] Implementation inheritance
+  - [ ] Empty base optimization
+- [ ] Protected inheritance
+- [ ] Class-internal using declaration
+- [ ] Inherited constructors
+- [ ] Mixin classes
+
+## 🚨 Exception Handling
+- [ ] Exception safety
+- [ ] Throwing exception objects
+  - [ ] Throw statement
+  - [ ] Rethrow statement
+- [ ] Try blocks
+- [ ] Catch blocks
+  - [ ] Catch all
+- [ ] Uncaught exception object
+- [ ] Std::terminate and std::set_terminate functions
+- [ ] Rethrow statement
+- [ ] Stack unwinding
+- [ ] Exceptions in constructors
+- [ ] Destructors and exception throwing
+- [ ] Exception handling and inheritance
+- [ ] Exception handling and dynamic class objects
+- [ ] Use of smart pointers for exception safety
+- [ ] Function try blocks
+- [ ] Noexcept specifier
+- [ ] Unexpected exception object
+- [ ] Std::unexpected_exception
+- [ ] Std::exception class and hierarchy
+  - [ ] Std::exception class and what virtual function
+  - [ ] Std::logic_error
+    - [ ] Std::invalid_argument, std::domain_error, std::length_error, std::out_of_range, std::future_error classes
+  - [ ] Std::runtime_error
+    - [ ] Std::range_error, std::overflow_error, std::underflow_error classes
+  - [ ] Std::system_error
+  - [ ] Std::regex_error
+  - [ ] Std::bad_alloc
+  - [ ] Std::bad_typeid
+  - [ ] Std::bad_cast
+  - [ ] Std::bad_exception
+  - [ ] Std::bad_weak_ptr
+  - [ ] Std::bad_function_call
+- [ ] Creating custom exception classes
+- [ ] Exception guarantees
+  - [ ] Basic exception guarantee
+  - [ ] Strong exception guarantee
+  - [ ] No throw guarantee
+- [ ] Std::current_exception
+- [ ] Std::exception_ptr
+- [ ] Std::rethrow_exception
+
+## 🔬 Runtime Type Identification (RTTI)
+- [ ] Dynamic_cast operator
+- [ ] Typeid operator
+- [ ] Std::typeinfo class
+- [ ] Std::bad_typeid
+
+## 🧵 Concurrency
+- [ ] Memory model
+- [ ] Threads and thread management
+- [ ] Std::this_thread namespace
+- [ ] Data race concept and avoidance of data races
+- [ ] Standard mutex classes and mutex operations
+- [ ] Lock_guard and unique_lock classes
+- [ ] Std::condition_variable class
+- [ ] Std::future and std::promise classes
+- [ ] Std::async function
+- [ ] Atomic types
+- [ ] Task-based programming
+- [ ] Std::packaged_task class
+- [ ] Parallel STL algorithms
+
