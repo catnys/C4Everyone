@@ -21,7 +21,6 @@ Create a linked list with following operations:
 > ```c
 > struct Node
 > {
->     
 >     int val;
 >     struct Node *next;
 > };
